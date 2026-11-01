@@ -1,0 +1,122 @@
+{
+  "q01": {
+    "pick": "A",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q02": {
+    "pick": "B",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q03": {
+    "pick": "B",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q04": {
+    "pick": "B",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q05": {
+    "pick": "A",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q06": {
+    "pick": "B",
+    "winner_model": "gpt-oss-120b"
+  },
+  "q07": {
+    "pick": "A",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q08": {
+    "pick": "A",
+    "winner_model": "gpt-oss-120b"
+  },
+  "q09": {
+    "pick": "A",
+    "winner_model": "gpt-oss-120b"
+  },
+  "q10": {
+    "pick": "B",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q11": {
+    "pick": "B",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q12": {
+    "pick": "B",
+    "winner_model": "gpt-oss-120b"
+  },
+  "q13": {
+    "pick": "A",
+    "winner_model": "gpt-oss-120b"
+  },
+  "q14": {
+    "pick": "B",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q15": {
+    "pick": "B",
+    "winner_model": "gpt-oss-120b"
+  },
+  "q16": {
+    "pick": "B",
+    "winner_model": "gpt-oss-120b"
+  },
+  "q17": {
+    "pick": "A",
+    "winner_model": "gpt-oss-120b"
+  },
+  "q18": {
+    "pick": "B",
+    "winner_model": "gpt-oss-120b"
+  },
+  "q19": {
+    "pick": "A",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q20": {
+    "pick": "B",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q21": {
+    "pick": "A",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q22": {
+    "pick": "B",
+    "winner_model": "gpt-oss-120b"
+  },
+  "q23": {
+    "pick": "A",
+    "winner_model": "gpt-oss-120b"
+  },
+  "q24": {
+    "pick": "B",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q25": {
+    "pick": "A",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q26": {
+    "pick": "B",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q27": {
+    "pick": "A",
+    "winner_model": "gpt-oss-120b"
+  },
+  "q28": {
+    "pick": "B",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q29": {
+    "pick": "A",
+    "winner_model": "llama-3.2-3b"
+  },
+  "q30": {
+    "pick": "B",
+    "winner_model": "gpt-oss-120b"
+  }
+}
